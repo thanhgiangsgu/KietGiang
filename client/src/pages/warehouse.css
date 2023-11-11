@@ -1,0 +1,7 @@
+.table-border-bottom {
+  border-bottom: 2px solid #3b3a3a; /* Màu và kích thước border-bottom tùy ý */
+  width: 400px;
+}
+.dropdown-menu {
+  z-index: 1000;
+}
